@@ -1,0 +1,17 @@
+[
+  {
+    "ten": "Nguyễn Văn A",
+    "tuoi": 20,
+    "mon": [
+      "Python",
+      "OOP"
+    ]
+  },
+  {
+    "ten": "Nguyễn Văn B",
+    "tuoi": 21,
+    "mon": [
+      "Python"
+    ]
+  }
+]
